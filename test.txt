@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwqwq _sdsdds
+=======
+qwqwq -> hgahah
+>>>>>>> mylocal
